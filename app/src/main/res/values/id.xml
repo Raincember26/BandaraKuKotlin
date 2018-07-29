@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="image" type="id">image</item>
+    <item name="text" type="id">text</item>
+    <item name="recycler_view" type="id">
+        recycler_view
+    </item>
+    <item name="relative_layout" type="id">
+        relative_layout
+    </item>
+</resources>

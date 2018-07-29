@@ -1,0 +1,240 @@
+<resources>
+    <string name="app_name">Rumah Adat Indonesia</string>
+
+    <string name="aceh">Provinsi Nanggro Aceh Darussalam</string>
+    <string name="sumut">Provinsi Sumatera Utara</string>
+    <string name="sumbar">Provinsi Sumatera Barat</string>
+    <string name="riau">Provinsi Riau</string>
+    <string name="kepriau">Provinsi Kepulauan Riau</string>
+    <string name="jambi">Provinsi Jambi</string>
+    <string name="sumsel">Provinsi Sumatera Selatan</string>
+    <string name="bangka">Provinsi Bangka Belitung</string>
+    <string name="bengkulu">Provinsi Bengkulu</string>
+    <string name="lampung">Provinsi Lampung</string>
+
+    <string name="jakarta">Provinsi DKI Jakarta</string>
+    <string name="jabar">Provinsi Jawa Barat </string>
+    <string name="banten">Provinsi Banten</string>
+    <string name="jateng">Provinsi Jawa Tengah</string>
+    <string name="jogja">Provinsi Daerah Istimewa Yogyakarta</string>
+    <string name="jatim">Provinsi Jawa Timur</string>
+    <string name="bali">Provinsi Bali</string>
+    <string name="ntb">Provinsi Nusa Tenggara Bara</string>
+    <string name="ntt">Provinsi Nusa Tenggara Timur</string>
+    <string name="kalbar">Provinsi Kalimantan Barat</string>
+
+    <string name="kalteng">Provinsi Kalimantan Tengah</string>
+    <string name="kalsel">Provinsi Kalimantan Selatan</string>
+    <string name="kaltim">Provinsi Kalimantan Timur</string>
+    <string name="kaltara">Provinsi Kalimantan Utara</string>
+    <string name="sulut">Provinsi Sulawesi Utara</string>
+    <string name="sulbar">Provinsi Sulawesi Barat</string>
+    <string name="sulteng">Provinsi Sulawesi Tengah</string>
+    <string name="sultera">Provinsi Sulawesi Tenggara</string>
+    <string name="sulsel">Provinsi Sulawesi Selatan</string>
+    <string name="gorontalo">Provinsi Gorontalo</string>
+
+    <string name="maluku">Provinsi Maluku</string>
+    <string name="malut">Provinsi Maluku Utara</string>
+    <string name="papuabar">Provinsi Papua Barat</string>
+    <string name="papua">Provinsi Papua</string>
+
+
+    <string name="jdl_maluku">Rumah Baileo</string>
+    <string name="jdl_malut">Rumah Baileo</string>
+    <string name="jdl_papuabar">Rumah Honai</string>
+    <string name="jdl_papua">Rumah Honai</string>
+    <string name="jdl_kalteng">Rumah Betang</string>
+    <string name="jdl_kalsel">Rumah Banjar Bubungan Tinggi</string>
+    <string name="jdl_kaltim">Rumah Lamin</string>
+    <string name="jdl_kaltara">Rumah Baloy</string>
+    <string name="jdl_sulut">Rumah Pewaris</string>
+    <string name="jdl_sulbar">Rumah Mandar</string>
+    <string name="jdl_sulteng">Rumah Tambi</string>
+    <string name="jdl_sultera">Rumah Buton Malige</string>
+    <string name="jdl_sulsel">Rumah Tongkonan</string>
+    <string name="jdl_gorontalo">Rumah Dulohupa, Rumah Pewaris</string>
+
+    <string name="jdl_jakarta">Rumah Kebaya</string>
+    <string name="jdl_jabar">Rumah Kasepuhan Cirebon</string>
+    <string name="jdl_banten">Rumah Badui</string>
+    <string name="jdl_jateng">Rumah Joglo</string>
+    <string name="jdl_jogja">Rumah Bangsal Kencono, Rumah Joglo</string>
+    <string name="jdl_jatim">Rumah Joglo Situbondo</string>
+    <string name="jdl_bali">Rumah Gapura Candi Bentar</string>
+    <string name="jdl_ntb">Rumah Istana Sultan Sumbawa</string>
+    <string name="jdl_ntt">Rumah Musalaki</string>
+    <string name="jdl_kalbar">Rumah Istana Kesultanan Pontianak</string>
+
+    <string name="jdl_aceh">Rumah Krong Bade</string>
+    <string name="jdl_sumut">Rumah Bolon</string>
+    <string name="jdl_sumbar">Rumah Gadang</string>
+    <string name="jdl_riau">Rumah Melayu Selaso</string>
+    <string name="jdl_kepriau">Rumah Selaso Jatuh Kembar</string>
+    <string name="jdl_jambi">Rumah Panjang</string>
+    <string name="jdl_sumsel">Rumah Limas</string>
+    <string name="jdl_bangka">Rumah Rakit, Rumah Limas</string>
+    <string name="jdl_bengkulu">Rumah Bubungan Lima</string>
+    <string name="jdl_lampung">Rumah Nowou Sesat</string>
+
+
+    <string name="aceh_detail">Rumah adat krong bade merupakan rumah adat provinsi Aceh. Rumah ini juga dikenal dengan sebutan rumoh aceh.
+        Ciri khas rumah krong bade adalah mempunyai tangga didepan rumah yang digunakan sebagai jalan masuk kedalam rumah. Pada umumnya rumah ini mempunyai jumlah anak tangga yang ganjil.
+        Rumah adat krong bade mempunyai bentuk persegi panjang dan dibuat memanjang dari arah timur ke barat. Dinding rumah terbuat dari kayu dan dihiasi dengan lukisan. Atap rumah adat krong bade terbuat dari daun rumbia serta lantainya terbuat dari bambu atau enau.
+    </string>
+
+    <string name="sumut_detail">Rumah adat bolon merupakan rumah adat provinsi Sumatera Utara. Rumah bolon terbagi menjadi beberapa jenis, antara lain rumah Bolon Simalungun, rumah Bolon Toba, rumah Bolon Karo, rumah Bolon Mandailing, rumah Bolon Angkola dan rumah Bolon Pakpak.
+        Ciri khas rumah bolon adalah bentuknya panggung yang terdiri dari beberapa tiang bergaris tengah yang menjadi penyanggahnya. Dinding rumah bolon dihiasi dengan ornamen khas Simalungun yang berwarna merah, putih, dan hitam. Ornamen ini menggambarkan pendangan kosmologis dan filosofi budaya suku Batak.
+    </string>
+
+    <string name="sumbar_detail">Rumah adat gadang merupakan rumah adat yang berasal dari provinsi Sumatera Barat. Nama lain dari rumah adat gadang adalah rumah bagonjong, rumah baanjuang, dan rumah godang.
+        Ciri khas rumah gadang adalah mempunyai keunikan dalam bentuk arsitekturnya dengan atap yang menyerupai tanduk kerbau yang terbuat dari bahan ijuk.
+        Rumah ini berfungsi sebagai tempat kediaman keluarga, tempat merawat anggota keluarga yang sakit, tempat melakasanakan upacara, dan sebagai lambang kehadiran suatu kaum.
+    </string>
+
+    <string name="riau_detail">Rumah adat melayu selaso merupakan rumah adat yang berasa dari provinsi Riau.
+        Ciri khas rumah adat ini adalah memiliki kolong atau yang biasa kita sebut dengan rumah panggung. Terdiri dari beberapa tiang dengan bentuk bangunan persegi panjang. Selain itu rumah adat selaso jatuh kembar mempunyai ukiran melayu seperti lebah bergayut, selembayung, pucuk rebung dan lain-lain.
+        Selaso jatuh kembar sendiri mempunyai makna rumah yang memiliki dua selaso yang artinya lantai rumah lebih rendah dari pada ruang tengah.
+    </string>
+
+    <string name="kepriau_detail">Rumah adat melayu selaso jatuh kembar merupakan rumah adat yang berasa dari provinsi Kepulauan Riau.
+        Ciri khas rumah adat ini adalah memiliki kolong atau yang biasa kita sebut dengan rumah panggung. Terdiri dari beberapa tiang dengan bentuk bangunan persegi panjang. Selain itu rumah adat selaso jatuh kembar mempunyai ukiran melayu seperti lebah bergayut, selembayung, pucuk rebung dan lain-lain.
+        Selaso jatuh kembar sendiri mempunyai makna rumah yang memiliki dua selaso yang artinya lantai rumah lebih rendah dari pada ruang tengah.
+    </string>
+
+    <string name="jambi_detail">Rumah adat panjang merupakan rumah adat yang berasal dari provinsi Jambi.
+        Ciri khas rumah adat ini adalah bentuknya yang panjang. Selain itu rumah adat ini memiliki corak yang sangat khas. Di Jambi, rumah adat ini hampir punah. Banyak masyarakat yang lebih memilih rumah modern dari pada rumah panjang ini.
+    </string>
+
+    <string name="sumsel_detail">Rumah adat limas merupakan rumah adat yang berasal dari provinsi Sumatera Selatan.
+        Ciri khas rumah adat ini adalah atapnya yang berbentuk limas. Selain itu, rumah limas juga mempunyai lantai yang bertingkat-tingkat yang disebut sebagai Bengkilas dan hanya digunakan untuk acara-acara penting keluarga saja.
+    </string>
+
+    <string name="bangka_detail">Rumah rakit merupakan rumah adat yang berasal dari Bangka Belitung. Rumah rakit ini juga sangat populer di Kota Palembang.
+        Ciri khas rumah rakit ini adalah dibangun diatas sungai dan mirip seperti rakit. Dibangun diatas sungai karena dahulu sungai dianggap sebagai sumber mata pencaharian dan sumber makanan bagi masyarakat.
+    </string>
+
+    <string name="bengkulu_detail">Rumah adat bubungan lima merupakan rumah adat yang berasal dari provinsi Bengkulu.
+        Ciri khas rumah ini mempunyai model seperti rumah panggung yang ditopang oleh beberapa tiang penopang. Kayu yang digunakan untuk membangun rumah ini juga tidak sembarangan. Kayu yang digunakan adalah Kayu Medang Kemuning.
+    </string>
+
+    <string name="lampung_detail">Rumah adat nowou sesat merupakan rumah adat yang berasal dari provinsi Lampung.
+        Ciri khas rumah adat ini adalah bentuknya seperti panggung dan terdapat ornamen yang khas pada bagian sisi bangunan. Pada umumnya rumah adat ini memiliki ukuran yang sangat besar, tapi pada zaman sekarang ukuran rumah adat ini dibuat tidak terlalu besar.
+    </string>
+
+    <string name="jakarta_detail">Rumah adat kebaya merupakan rumah adat yang berasal dari provinsi DKI Jakarta.
+        Ciri khas rumah adat ini adalah atapnya yang menyerupai pelana yang dilipat dan apabila di lihat dari samping maka akan terlihat seperti lipatan-lipatan seperti lipatan kebaya. Selain itu rumah ini juga memiliki corak ornamen khas suku betawi.
+    </string>
+
+    <string name="jabar_detail">Rumah adat Kasepuhan Cirebon merupakan rumah adat yang berasal dari provinsi Jawa Barat. Rumah ini juga merupakan bagian dari keraton Cirebon. Walaupun usia bangunan ini sudah sangat tua, akan tetapi bangunan ini masih tetap terawat sampai sekarang.
+    </string>
+
+    <string name="banten_detail">RRumah Badui merupakan rumah adat yang berasal dari provinsi Banten.
+    Ciri khas rumah badui adalah bentuknya yang menyerupai panggung dan hampir seluruh bagian rumah terbuat dari bahan bambu. Rumah adat ini juga terkenal dengan kesederhanaan.
+    </string>
+
+    <string name="jateng_detail">Rumah adat joglo merupakan rumah adat masyarakat Jawa. Rumah adat ini terdiri dari beberapa ruangan di dalamnya. Di depan rumah terdapat pendopo yang berfungsi sebagai ruang tamu.
+
+    Ciri khas rumah adat ini adalah mempunyai corak ornamen budaya suku Jawa yang terletak pada bagian-bagian sisi rumahnya.
+    </string>
+
+    <string name="jogja_detail">Rumah bangsal kencono merupakan rumah adat yang berasal dari Daerah Istimewa Yogyakarta. Pada zaman dulu rumah adat ini digunakan sebagai tempat tinggal raja-raja jawa dan para pejabat kerajaan.
+
+    Ciri khas rumah adat ini adalah mempunyai corak ornamen yang mengandung filosofi dan nilai-nilai kehidupan yang merupakan lambang dari pola perilaku manusia, alam semesta dan kehidupan.
+    </string>
+
+    <string name="jatim_detail">Rumah adat joglo jawa timuran merupakan rumah adat yang berasal dari provinsi Jawa Timur. Rumah adat ini mempunyai kemiripan dengan rumah adat joglo Jawa Tengah.
+
+    Ciri khas rumah adat ini adalah bentuknya lebih minimalis tetapi artistik. Selain itu rumah adat ini mempunyai filosofi dan sanepan yang terkandung didalam rumah adat ini. Sehingga rumah adat ini kental akan kebudayaan leluhur terdahulu.
+    </string>
+
+    <string name="bali_detail">Rumah adat gapura candi bentar merupakan rumah adat yang berasal dari provinsi Bali.
+
+    Ciri khas rumah adat ini adalah bentuknya menyerupai pura dan memiliki gapura di bagian depan rumah. Rumah adat di Bali sangat kental dengan budaya dan agamanya. Berbeda dengan rumah adat yang lainnya di Indonesia. Rumah adat ini masih sangat mudah untuk ditemukan. Itu artinya masyarakat di Bali sangat menjaga harta kebudayaan yang mereka miliki.
+    </string>
+
+    <string name="ntb_detail">Rumah adat dalam loka merupakan rumah adat yang berasal dari provinsi Nusa Tenggara Barat. Rumah adat ini dibangun oleh suku-suku asli daerah Nusa Tenggara Barat. Diantaranya adalah Suku Sumbawa, Suku Sasak, Suku Dongu, Suku, Dompu.
+
+    Pada zaman dahulu rumah adat ini digunakan sebagai istana raja dan ketua adat. Akan tetapi seiring perkembangan zaman, rumah adat ini digunakan sebagai tempat tinggal masyarakat Nusa Tenggara Barat.
+    </string>
+
+    <string name="ntt_detail">Rumah adat musalaki merupakan rumah adat yang berasal dari provinsi Nusa Tenggara Timur. Rumah adat musalaki mempunyai kemiripan dengan rumah adat daerah tetangganya, yaitu Nusa Tenggara Barat.
+    Ciri khas dari rumah adat ini adalah bentuk dan arsitekturnya menyerupai kerucut. Pada zaman dahulu rumah ini digunakan sebagai tempat tinggal kepala suku dan pembesar adat saja. Akan tetapi seiring perkembangan zaman, rumah adat ini digunakan untuk tempat tinggal masyarakat Nusa Tenggara Timur.
+    </string>
+
+    <string name="kalbar_detail">Rumah adat istana kesultanan pontianak merupakan rumah adat yang berasal dari daerah Kalimantan Barat. Rumah ini memiliki ukuran yang cukup besar.
+    Ciri khas rumah adat ini adalah mempunyai corak dan arsitektur Suku Dayak yang terdapat pada bagian-bagian sisi rumah.
+    </string>
+
+    <string name="kalteng_detail">Rumah adat betang adalah rumah adat yang berasal dari provinsi Kalimantan Tengah. Rumah ini secara garus besar mempunyai kemiripan dengan rumah panjang.
+
+    Ciri khas rumah adat ini adalah mempunyai ukuran yang sangat besar dan merupakan rumah adat terbesar kedua di Indonesia. Rumah adat ini mampu menampung 150 orang atau 30-35 keluarga.
+    </string>
+
+    <string name="kalsel_detail">Rumah adat bubungan tinggi merupakan rumah adat yang berasal dari provinsi Kalimantan Selatan. Rumah ini dibangun oleh suku Dayak Selatan yang merupakan suku asli Kalimantan.
+
+    Ciri khas rumah adat ini adalah mempunyai struktur bangunan yang tinggi dan kokoh. Rumah adat bubungan tinggi ini lebih mengutamakan kekokohan bangunan daripada daya tampung bangunannya.
+    </string>
+
+    <string name="kaltim_detail">Rumah adat lamin merupakan rumah adat yang berasal dari provinsi Kalimantan Timur. Rumah adat ini dibangun oleh suku asli Kalimantan, yaitu Suku Daya Timur.
+
+    Ciri khas rumah adat ini adalah mempunyai corak ornamen Suku Dayak Timur yang terdapat pada bagian-bagian sisi rumah. Rumah lamin ini juga merupakan rumah adat terbesar di Indonesia.
+    </string>
+
+    <string name="kaltara_detail">Rumah adat baloy merupakan rumah adat yang berasal dari provinsi Kalimantan Utara. Rumah adat baloy terinspirasi dari rumah adat suk tidung yang juga berada di Kalimantan Utara.
+
+    Ciri khas rumah adat ini adalah mempunyai arsitektur bangunan yang lebih indah daripada rumat adat lainnya yang ada di Kalimantan. Sehingga rumah adat baloy dijadikan sebagai maskot daerah sekaligus sebagai media menarik wisatawan.
+    </string>
+
+
+    <string name="sulut_detail">Rumah adat pewaris adalah rumah adat yang berasal dari provinsi Sulawesi Utara. Rumah adat ini dibangun oleh suku asli Sulawesi Utara, yaitu Suku Minahasa.
+
+    Ciri khas rumah ini adalah mempunyai bentuk seperti rumah panggung dan memiliki dua tangga pada bagian depan rumahnya. Hampir seluruh bagian rumah ini terbuat dari bahan dasar kayu. Kayu yang digunakan pun bukanlah jenis kayu yang sembarangan.
+    </string>
+
+    <string name="sulbar_detail">Rumah adat mandar merupakan rumah adat yang berasal dari provinsi Sulawesi Barat. Rumah adat ini mempunyai arsitektur bangunan yang mirip dengan bangunan suku bugis dan suku toraja.
+
+    Ciri khas rumah adat ini adalah memiliki teras yang luas dan mempunyai anak tangga yang jumlahnya ganjil. Selain itu sebagian besar struktur material bangunan berasal dari alam.
+    </string>
+
+    <string name="sulteng_detail">Rumah adat tambi merupakan rumah adat yang berasal dari provinsi Sulawesi Tengah.
+
+    Ciri khas rumah ini adalah mempunyai bentuk persegi panjang dengan arsitektur rumah panggung. Bahan dasar dalam pembuatan rumah ini menggunakan kayu asli dan juga batu alam. Semakin tinggi dan besar rumah ini maka status sosial sang pemilik semakin tinggi.
+    </string>
+
+    <string name="sultera_detail">Rumah adat buton malige merupakan rumah adat yang berasal dari provinsi Sulawesi Tenggara.
+
+    Ciri khas rumah adat ini adalah mempunyai karakteristik arsitektur yang unik. Rumah adat ini dibangun dengan empat lantai dengan teknik kontruksi kayu kait tanpa pasak dan paku.
+    </string>
+
+    <string name="sulsel_detail">Rumah adat tongkonan merupakan rumah adat yang berasal dari provinsi Sumatera Selatan.
+
+    Ciri khas rumah adat ini adalah mempunyai bentuk yang unik pada atapnya. Atap rumah ini berbentuk seperti perahu. Selain itu terdapat hiasan tanduk kerbau di bagian depan rumahnya.
+    </string>
+
+    <string name="gorontalo_detail">Rumah adat dolohupa merupakan rumah adat yang berasal dari provinsi Gorontalo.
+
+    Ciri khas rumah adat ini adalah mempunyai atap yang sangat berseni dengan struktur bangunan menyerupai rumah panggung. Sebagian besar bahan dasar bangunan ini adalah menggunakan kayu asli.
+    </string>
+
+    <string name="maluku_detail">Rumah adat baileo merupakan rumah adat yang berasal dari provinsi Maluku. Rumah adat ini melambangkan kejamukan agama di Maluku.
+
+    Ciri khas rumah adat ini adalah ukurannya yang besar sebab rumah adat ini tidak dipakai sebagai tempat tinggal saja melainkan untuk musyawarah dan acara hiburan. Uniknya didalam salah satu ruangan rumah adat ini terdapat ruangan khusus untuk menyimpan benda-benda pusaka suci.
+    </string>
+
+    <string name="malut_detail">Rumah adat baileo merupakan rumah adat yang berasal dari provinsi Maluku. Rumah adat ini melambangkan kejamukan agama di Maluku.
+
+    Ciri khas rumah adat ini adalah ukurannya yang besar sebab rumah adat ini tidak dipakai sebagai tempat tinggal saja melainkan untuk musyawarah dan acara hiburan. Uniknya didalam salah satu ruangan rumah adat ini terdapat ruangan khusus untuk menyimpan benda-benda pusaka suci.
+    </string>
+
+    <string name="papuabar_detail">Rumah adat honai merupakan rumah adat yang berasal dari provinsi Papua. Rumah ini terbuat dari kayu dan ilalang.
+
+    Ciri khas rumah adat ini adalah berukuran minimalis dan sempit. Rumah ini juga tidak memiliki jendela dengan tujuan agar rumah tetap hangat mesti suhu diluar sangat dingin. Ini dikarenakan masyarakat Papua banyak yang tinggal di daerah pegunungan.
+    </string>
+
+    <string name="papua_detail">Rumah adat honai merupakan rumah adat yang berasal dari provinsi Papua. Rumah ini terbuat dari kayu dan ilalang.
+
+    Ciri khas rumah adat ini adalah berukuran minimalis dan sempit. Rumah ini juga tidak memiliki jendela dengan tujuan agar rumah tetap hangat mesti suhu diluar sangat dingin. Ini dikarenakan masyarakat Papua banyak yang tinggal di daerah pegunungan.
+    </string>
+
+</resources>
